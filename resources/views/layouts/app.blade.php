@@ -23,16 +23,16 @@
 							<div class="home_right_box">
 
 								<div class="home_item">
-									<i class="flaticon-sofa"></i>
+									<i class="lnr lnr-bullhorn"></i>
 								</div>
 								<div class="home_item">
-									<i class="flaticon-bed"></i>
+									<i class="lnr lnr-store"></i>
 								</div>
 								<div class="home_item">
-									<i class="flaticon-computer"></i>
+									<i class="lnr lnr-coffee-cup"></i>
 								</div>
 								<div class="home_item">
-									<i class="flaticon-mirror"></i>
+									<i class="lnr lnr-dinner"></i>
 								</div>
 								<div class="home_item">
 									{{-- <i class="flaticon-closet"></i> --}}
