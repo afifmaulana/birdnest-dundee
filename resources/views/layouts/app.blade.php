@@ -92,7 +92,7 @@
         		<div class="row feature_inner">
         			<div class="col-lg-4 col-md-6">
         				<div class="feature_item">
-        					<h4><i class="lnr lnr-user"></i>Sumber Asam Amino Esensial</h4>
+        					<h4><i class="lnr lnr-bubble"></i>Sumber Asam Amino Esensial</h4>
         					<p>Berguna untuk regenerasi sel, impuls saraf, meningkatkan kinerja memori,
                                 mempercepat pemulihan setelah sakit, dll.
                             </p>
@@ -100,7 +100,7 @@
         			</div>
         			<div class="col-lg-4 col-md-6">
         				<div class="feature_item">
-        					<h4><i class="lnr lnr-license"></i>Mendukung Fungsi Organ Tubuh</h4>
+        					<h4><i class="lnr lnr-bubble"></i>Mendukung Fungsi Organ Tubuh</h4>
         					<p>Organ tubuh itu sangat mempengaruhi kesehatan kita, dengan mengkonsumsi
                                 Bird's Nest dapat mendukung kinerja organ tubuh kita.
                             </p>
@@ -108,20 +108,20 @@
         			</div>
         			<div class="col-lg-4 col-md-6">
         				<div class="feature_item">
-        					<h4><i class="lnr lnr-phone"></i>Mencegah resistensi insulin</h4>
+        					<h4><i class="lnr lnr-bubble"></i>Mencegah resistensi insulin</h4>
         					<p>Resistensi insulin merupakan kondisi ketika sel-sel tubuh tidak dapat menggunakan gula darah dengan baik
                                  karena terganggunya respon sel tubuh.</p>
         				</div>
         			</div>
         			<div class="col-lg-4 col-md-6">
         				<div class="feature_item">
-        					<h4><i class="lnr lnr-rocket"></i>Menurunkan risiko penyakit kardiovaskular</h4>
+        					<h4><i class="lnr lnr-bubble"></i>Menurunkan risiko penyakit kardiovaskular</h4>
         					<p>Penyakit kardiovaskular adalah suatu kondisi di mana terdapat adanya gangguan pada jantung dan pembuluh darah.</p>
         				</div>
         			</div>
         			<div class="col-lg-4 col-md-6">
         				<div class="feature_item">
-        					<h4><i class="lnr lnr-diamond"></i>Meredakan Peradangan</h4>
+        					<h4><i class="lnr lnr-bubble"></i>Meredakan Peradangan</h4>
         					<p>Kandungan mangan dalam sarang walet juga berguna untuk mengaktifkan dan memastikan enzim yang berperan dalam membantu meredakan peradangan bekerja dengan baik.</p>
         				</div>
         			</div>
@@ -153,7 +153,6 @@
         	<div class="container">
         		<div class="main_title">
         			<h2>Galeri</h2>
-        			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
         		</div>
         		<div class="photo-gallery">
                         <div class="row photos">
@@ -180,58 +179,47 @@
             <div class="container">
                 <div class="main_title">
         			<h2>Kontak</h2>
-        			<p>Terima kasih sudah menghubungi kami</p>
+                    <p>Terima kasih telah menghubungi kami</p>
         		</div>
-                <div id="mapBox" class="mapBox"
-                    data-lat="40.701083"
-                    data-lon="-74.1522848"
-                    data-zoom="13"
-                    data-info="PO Box CT16122 Collins Street West, Victoria 8007, Australia."
-                    data-mlat="40.701083"
-                    data-mlon="-74.1522848">
-                </div>
-                <div class="row">
-                    <div class="col-lg-3">
-                        <div class="contact_info">
-                            <div class="info_item">
-                                <i class="lnr lnr-home"></i>
-                                <h6>Jl. Ketintang No.169, Ketintang, Kec. Wonokromo </h6>
-                                <p>Kota SBY, Jawa Timur</p>
-                            </div>
-                            <div class="info_item">
-                                <i class="lnr lnr-phone-handset"></i>
-                                <h6><a href="https://wa.me/6281332666688?text=Halo%20kak,%20Apakah%20Bird's%20Nest%20masih%20tersedia%20?">081332666688</a></h6>
-                                <p>Senin-Minggu pukul 09:00-21:00</p>
-                            </div>
-                            <div class="info_item">
-                                <i class="lnr lnr-envelope"></i>
-                                <h6><a href="#">info@birdnest-dundee.com</a></h6>
-                                <p>Terima kasih sudah menghubungi kami</p>
-                            </div>
+                <div class="row text-center">
+                    <div class="col-lg-4 col-md-12">
+                        <div>
+                            <svg class="feather feather-map-pin" xmlns="http://www.w3.org/2000/svg" width="50"
+                                height="50" viewBox="0 0 24 24" fill="none" stroke="#A40603" stroke-width="1"
+                                stroke-linecap="round" stroke-linejoin="round">
+                                <path d="M21 10c0 7-9 13-9 13s-9-6-9-13a9 9 0 0 1 18 0z"></path>
+                                <circle cx="12" cy="10" r="3"></circle>
+                            </svg>
+                            <h4 class="mt-5">Alamat :</h4>
+                            <span class="text-black">Jl. Ketintang No.169, Ketintang, Kec. Wonokromo, Kota SBY, Jawa Timur 60231</span>
                         </div>
                     </div>
-                    <div class="col-lg-9">
-                        <form class="row contact_form" action="contact_process.php" method="post" id="contactForm" novalidate="novalidate">
-                            <div class="col-md-6">
-                                <div class="form-group">
-                                    <input type="text" class="form-control" id="name" name="name" placeholder="Enter your name">
-                                </div>
-                                <div class="form-group">
-                                    <input type="email" class="form-control" id="email" name="email" placeholder="Enter email address">
-                                </div>
-                                <div class="form-group">
-                                    <input type="text" class="form-control" id="subject" name="subject" placeholder="Enter Subject">
-                                </div>
-                            </div>
-                            <div class="col-md-6">
-                                <div class="form-group">
-                                    <textarea class="form-control" name="message" id="message" rows="1" placeholder="Enter Message"></textarea>
-                                </div>
-                            </div>
-                            <div class="col-md-12 text-right">
-                                <button type="submit" value="submit" class="btn submit_btn">Send Message</button>
-                            </div>
-                        </form>
+                    <div class="col-lg-4 col-md-6">
+                        <div>
+                            <svg class="feather feather-mail" xmlns="http://www.w3.org/2000/svg" width="50"
+                                height="50" viewBox="0 0 24 24" fill="none" stroke="#A40603" stroke-width="1"
+                                stroke-linecap="round" stroke-linejoin="round">
+                                <path
+                                    d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z">
+                                </path>
+                                <polyline points="22,6 12,13 2,6"></polyline>
+                            </svg>
+                            <h4 class="mt-5">Email Us</h4>
+                            <a href="mailto:info@birdnest-dundee.com"> info@birdnest-dundee.com</a>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6">
+                        <div>
+                            <svg class="feather feather-phone-call" xmlns="http://www.w3.org/2000/svg" width="50"
+                                height="50" viewBox="0 0 24 24" fill="none" stroke="#A40603" stroke-width="1"
+                                stroke-linecap="round" stroke-linejoin="round">
+                                <path
+                                    d="M15.05 5A5 5 0 0 1 19 8.95M15.05 1A9 9 0 0 1 23 8.94m-1 7.98v3a2 2 0 0 1-2.18 2 19.79 19.79 0 0 1-8.63-3.07 19.5 19.5 0 0 1-6-6 19.79 19.79 0 0 1-3.07-8.67A2 2 0 0 1 4.11 2h3a2 2 0 0 1 2 1.72 12.84 12.84 0 0 0 .7 2.81 2 2 0 0 1-.45 2.11L8.09 9.91a16 16 0 0 0 6 6l1.27-1.27a2 2 0 0 1 2.11-.45 12.84 12.84 0 0 0 2.81.7A2 2 0 0 1 22 16.92z">
+                                </path>
+                            </svg>
+                            <h4 class="mt-5">Nomor Telp</h4>
+                            <a href="https://wa.me/6281332666688?text=Halo%20kak,%20Apakah%20Bird's%20Nest%20masih%20tersedia%20?">+62 813 3266 6688</a>
+                        </div>
                     </div>
                 </div>
             </div>

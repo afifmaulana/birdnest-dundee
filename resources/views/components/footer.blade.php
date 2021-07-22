@@ -1,7 +1,7 @@
-<footer class="footer_area p_120">
+<footer class="footer_area py-4">
     <div class="container">
         <div class="row footer_inner">
-            <div class="col-lg-5 col-sm-6">
+            <div class="col-lg-8 col-sm-6">
                 <aside class="f_widget ab_widget">
                     <div class="f_title">
                         <h3>Tentang</h3>
@@ -13,7 +13,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                 </aside>
             </div>
-            <div class="col-lg-5 col-sm-6">
+            {{-- <div class="col-lg-5 col-sm-6">
                 <aside class="f_widget news_widget">
                     <div class="f_title">
                         <h3>Newsletter</h3>
@@ -29,8 +29,8 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                         </form>
                     </div>
                 </aside>
-            </div>
-            <div class="col-lg-2">
+            </div> --}}
+            <div class="col-lg-4 col-sm-6">
                 <aside class="f_widget social_widget">
                     <div class="f_title">
                         <h3>Follow Me</h3>

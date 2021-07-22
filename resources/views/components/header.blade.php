@@ -3,8 +3,7 @@
         <div class="container">
             <div class="top_inner">
                 <div class="float-left">
-                    <a href="#">Visit Us</a>
-                    <a href="#">Online Support</a>
+                    <a href="https://wa.me/6281332666688?text=Halo%20kak,%20Apakah%20Bird's%20Nest%20masih%20tersedia%20?">Hubungi</a>
                 </div>
                 <div class="float-right">
                     <ul class="list header_socila">
