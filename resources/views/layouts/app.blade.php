@@ -16,7 +16,7 @@
 							<div class="banner_content">
 								<h2 style="color: #faba00">Bird's Nest <br/>by Dundee</h2>
 								<p>Minuman Sarang Burung Walet yang alami tanpa bahan pengawet, dan dibuat langsung saat pesan.</p>
-								<a class="banner_btn" href="#">Hubungi Kami</a>
+								<a class="banner_btn" href="https://wa.me/6281332666688?text=Halo%20kak,%20Apakah%20Bird's%20Nest%20masih%20tersedia%20?">Hubungi Kami</a>
 							</div>
 						</div>
 						<div class="col-lg-4">
@@ -66,7 +66,7 @@
                             </p>
                             <p>Selain untuk kesehatan, sarang burung walet juga bermanfaat untuk kecantikan.</p>
                             <br/>
-        					<a class="banner_btn" href="#">Hubungi Kami</a>
+        					<a class="banner_btn" href="https://wa.me/6281332666688?text=Halo%20kak,%20Apakah%20Bird's%20Nest%20masih%20tersedia%20?">Hubungi Kami</a>
         				</div>
         			</div>
         			<div class="col-lg-6">
@@ -142,75 +142,41 @@
         		<div class="impress_inner text-center">
 					<h2>Bird's Nest <br />By Dundee</h2>
 					<p>Sarang burung walet yang baik memiliki tekstur yang renyah dan kenyal setelah direbus</p>
-					<a class="banner_btn" href="#">Hubungi kami</a>
+					<a class="banner_btn" href="https://wa.me/6281332666688?text=Halo%20kak,%20Apakah%20Bird's%20Nest%20masih%20tersedia%20?">Hubungi kami</a>
         		</div>
         	</div>
         </section>
         <!--================End Impress Area =================-->
 
         <!--================Our Blog Area =================-->
-        <section class="our_blog_area p_120" style="background: #ffecec">
+        <section id="galeri" class="our_blog_area p_120">
         	<div class="container">
         		<div class="main_title">
         			<h2>Galeri</h2>
         			<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation.</p>
         		</div>
-        		<div class="blog_inner row">
-        			<div class="col-lg-4">
-        				<div class="o_blog_item">
-        					<div class="blog_img">
-        						<img class="img-fluid" src="{{ asset('assets/images/image1.jpeg') }}" alt="">
-        					</div>
-        					<div class="blog_text">
-        						<div class="blog_cat">
-        							<a class="active" href="#">Travel</a>
-        							<a href="#">Life style</a>
-        						</div>
-        						<a href="#"><h4>Low Cost Advertising</h4></a>
-        						<p>Acres of Diamonds… you’ve read the famous story, or at least had it related to you A farmer.</p>
-        						<a class="date" href="#">31st January, 2018</a>
-        					</div>
-        				</div>
-        			</div>
-        			<div class="col-lg-4">
-        				<div class="o_blog_item">
-        					<div class="blog_img">
-        						<img class="img-fluid" src="{{ asset('assets/images/image2.jpeg') }}" alt="">
-        					</div>
-        					<div class="blog_text">
-        						<div class="blog_cat">
-        							<a class="active" href="#">Travel</a>
-        							<a href="#">Life style</a>
-        						</div>
-        						<a href="#"><h4>Low Cost Advertising</h4></a>
-        						<p>Acres of Diamonds… you’ve read the famous story, or at least had it related to you A farmer.</p>
-        						<a class="date" href="#">31st January, 2018</a>
-        					</div>
-        				</div>
-        			</div>
-        			<div class="col-lg-4">
-        				<div class="o_blog_item">
-        					<div class="blog_img">
-        						<img class="img-fluid" src="{{ asset('assets/images/image4.jpeg') }}" alt="">
-        					</div>
-        					<div class="blog_text">
-        						<div class="blog_cat">
-        							<a class="active" href="#">Travel</a>
-        							<a href="#">Life style</a>
-        						</div>
-        						<a href="#"><h4>Low Cost Advertising</h4></a>
-        						<p>Acres of Diamonds… you’ve read the famous story, or at least had it related to you A farmer.</p>
-        						<a class="date" href="#">31st January, 2018</a>
-        					</div>
-        				</div>
-        			</div>
-        		</div>
+        		<div class="photo-gallery">
+                        <div class="row photos">
+                            <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="{{ asset('assets/images/image1.jpeg') }}" data-lightbox="photos"><img class="img-fluid" src="{{ asset('assets/images/image1.jpeg') }}"></a></div>
+                            <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="{{ asset('assets/images/image2.jpeg') }}" data-lightbox="photos"><img class="img-fluid" src="{{ asset('assets/images/image2.jpeg') }}"></a></div>
+                            <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="{{ asset('assets/images/image3.jpeg') }}" data-lightbox="photos"><img class="img-fluid" src="{{ asset('assets/images/image3.jpeg') }}"></a></div>
+                            <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="{{ asset('assets/images/image4.jpeg') }}" data-lightbox="photos"><img class="img-fluid" src="{{ asset('assets/images/image4.jpeg') }}"></a></div>
+                            <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="{{ asset('assets/images/1.jpg') }}" data-lightbox="photos"><img class="img-fluid" src="{{ asset('assets/images/1.jpg') }}"></a></div>
+                            <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="{{ asset('assets/images/2.jpg') }}" data-lightbox="photos"><img class="img-fluid" src="{{ asset('assets/images/2.jpg') }}"></a></div>
+                            <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="{{ asset('assets/images/3.jpg') }}" data-lightbox="photos"><img class="img-fluid" src="{{ asset('assets/images/3.jpg') }}"></a></div>
+                            <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="{{ asset('assets/images/4.jpg') }}" data-lightbox="photos"><img class="img-fluid" src="{{ asset('assets/images/4.jpg') }}"></a></div>
+                            <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="{{ asset('assets/images/image5.jpeg') }}" data-lightbox="photos"><img class="img-fluid" src="{{ asset('assets/images/image5.jpeg') }}"></a></div>
+                            <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="{{ asset('assets/images/image6.jpeg') }}" data-lightbox="photos"><img class="img-fluid" src="{{ asset('assets/images/image6.jpeg') }}"></a></div>
+                            <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="{{ asset('assets/images/image7.jpeg') }}" data-lightbox="photos"><img class="img-fluid" src="{{ asset('assets/images/image7.jpeg') }}"></a></div>
+                            <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="{{ asset('assets/images/image5.jpeg') }}" data-lightbox="photos"><img class="img-fluid" src="{{ asset('assets/images/image5.jpeg') }}"></a></div>
+                        </div>
+                </div>
         	</div>
         </section>
         <!--================End Our Blog Area =================-->
 
         <!--================Contact Area =================-->
-        <section class="contact_area p_120">
+        <section id="kontak" class="contact_area p_120" style="background: #ffecec">
             <div class="container">
                 <div class="main_title">
         			<h2>Kontak</h2>
@@ -229,18 +195,18 @@
                         <div class="contact_info">
                             <div class="info_item">
                                 <i class="lnr lnr-home"></i>
-                                <h6>California, United States</h6>
-                                <p>Santa monica bullevard</p>
+                                <h6>Jl. Ketintang No.169, Ketintang, Kec. Wonokromo </h6>
+                                <p>Kota SBY, Jawa Timur</p>
                             </div>
                             <div class="info_item">
                                 <i class="lnr lnr-phone-handset"></i>
-                                <h6><a href="#">00 (440) 9865 562</a></h6>
-                                <p>Mon to Fri 9am to 6 pm</p>
+                                <h6><a href="https://wa.me/6281332666688?text=Halo%20kak,%20Apakah%20Bird's%20Nest%20masih%20tersedia%20?">081332666688</a></h6>
+                                <p>Senin-Minggu pukul 09:00-21:00</p>
                             </div>
                             <div class="info_item">
                                 <i class="lnr lnr-envelope"></i>
-                                <h6><a href="#">support@colorlib.com</a></h6>
-                                <p>Send us your query anytime!</p>
+                                <h6><a href="#">info@birdnest-dundee.com</a></h6>
+                                <p>Terima kasih sudah menghubungi kami</p>
                             </div>
                         </div>
                     </div>
@@ -271,30 +237,6 @@
             </div>
         </section>
         <!--================Contact Area =================-->
-
-        <!--================Clients Logo Area =================-->
-        <section class="clients_logo_area p_120">
-        	<div class="container">
-        		<div class="clients_slider owl-carousel">
-        			<div class="item">
-        				<img src="{{ asset('assets/img/clients-logo/c-logo-1.png') }}" alt="">
-        			</div>
-        			<div class="item">
-        				<img src="{{ asset('assets/img/clients-logo/c-logo-2.png') }}" alt="">
-        			</div>
-        			<div class="item">
-        				<img src="{{ asset('assets/img/clients-logo/c-logo-3.png') }}" alt="">
-        			</div>
-        			<div class="item">
-        				<img src="{{ asset('assets/img/clients-logo/c-logo-4.png') }}" alt="">
-        			</div>
-        			<div class="item">
-        				<img src="{{ asset('assets/img/clients-logo/c-logo-5.png') }}" alt="">
-        			</div>
-        		</div>
-        	</div>
-        </section>
-        <!--================End Clients Logo Area =================-->
 
         <!--================Footer Area =================-->
         @include('components.footer')

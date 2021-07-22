@@ -17,3 +17,4 @@
         <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCjCGmQ0Uq4exrzdcL6rvxywDDOvfAu6eE"></script>
         <script src="{{ asset('assets/js/gmaps.min.js') }}"></script>
         <script src="{{ asset('assets/js/theme.js') }}"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.8.2/js/lightbox.min.js"></script>
