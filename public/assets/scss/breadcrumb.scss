@@ -2,7 +2,7 @@
 ============================================================================================ */
 .home_banner_area{
 	z-index: 1;
-	background: url(../img/banner/home-banner.jpg) no-repeat scroll center center;
+	background: url(../images/10.jpg) no-repeat scroll center center;
 	background-size: cover;
 	.banner_inner{
 		width: 100%;
@@ -35,7 +35,7 @@
 				margin-right: 0px;
 			}
 		}
-	}	
+	}
 	.home_right_box{
 		background: rgba(255, 255, 255, .10);
 		padding: 30px;
@@ -73,7 +73,7 @@
 				background: $baseColor;
 			}
 		}
-	}	
+	}
 }
 
 .blog_banner{
@@ -84,7 +84,7 @@
 	margin-bottom: 0px;
 	.banner_inner{
 		background: #04091e;
-		position: relative; 
+		position: relative;
 		overflow: hidden;
 		width: 100%;
 		min-height: 780px;
@@ -179,7 +179,7 @@
 						margin-right: 0px;
 						&:before{
 							display: none;
-						}	
+						}
 					}
 				}
 			}

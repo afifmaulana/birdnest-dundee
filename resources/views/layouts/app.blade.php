@@ -143,7 +143,7 @@
         			<div class="col-lg-4">
         				<div class="o_blog_item">
         					<div class="blog_img">
-        						<img class="img-fluid" src="{{ asset('assets/img/our-blog/our-blog-1.jpg') }}" alt="">
+        						<img class="img-fluid" src="{{ asset('assets/images/1.jpg') }}" alt="">
         					</div>
         					<div class="blog_text">
         						<div class="blog_cat">
@@ -159,7 +159,7 @@
         			<div class="col-lg-4">
         				<div class="o_blog_item">
         					<div class="blog_img">
-        						<img class="img-fluid" src="{{ asset('assets/img/our-blog/our-blog-2.jpg') }}" alt="">
+        						<img class="img-fluid" src="{{ asset('assets/images/2.jpg') }}" alt="">
         					</div>
         					<div class="blog_text">
         						<div class="blog_cat">
@@ -175,7 +175,7 @@
         			<div class="col-lg-4">
         				<div class="o_blog_item">
         					<div class="blog_img">
-        						<img class="img-fluid" src="{{ asset('assets/img/our-blog/our-blog-3.jpg') }}" alt="">
+        						<img class="img-fluid" src="{{ asset('assets/images/3.jpg') }}" alt="">
         					</div>
         					<div class="blog_text">
         						<div class="blog_cat">
