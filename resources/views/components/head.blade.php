@@ -2,8 +2,8 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <link rel="icon" href="{{ asset('assets/img/favicon.png') }}" type="image/png">
-    <title>Birdnest by Dundee</title>
+    <link rel="icon" href="{{ asset('assets/images/logo.png') }}" type="image/png">
+    <title>Bird's Nest by Dundee</title>
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="{{ asset('assets/css/bootstrap.css') }}">
     <link rel="stylesheet" href="{{ asset('assets/vendors/linericon/style.css') }}">
