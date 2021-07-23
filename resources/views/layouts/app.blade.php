@@ -54,8 +54,8 @@
         		<div class="about_inner row">
         			<div class="col-lg-6">
         				<div class="about_left_text">
-        					<h6>Apa itu Bird Nest?</h6>
-        					<h3>Tentang Bird Nest <br />by Dundee</h3>
+        					<h6>Apa itu Bird's Nest?</h6>
+        					<h3>Tentang Bird's Nest <br />by Dundee</h3>
         					<h5>Menu baru yang ada di Restoran Dundee</h5>
         					<p>Bird's Nest merupakan menu baru yang ada di Restoran Dundee yang pembuatannya
                                 menggunakan sarang burung walet. Bird's Nest dibuat tanpa bahan pengawet dan juga
