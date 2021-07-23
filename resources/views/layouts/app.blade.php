@@ -54,8 +54,8 @@
         		<div class="about_inner row">
         			<div class="col-lg-6">
         				<div class="about_left_text">
-        					<h6>Apa itu Bird's Nest?</h6>
-        					<h3>Tentang Bird'Nest <br />by Dundee</h3>
+        					<h6>Apa itu Bird Nest?</h6>
+        					<h3>Tentang Bird Nest <br />by Dundee</h3>
         					<h5>Menu baru yang ada di Restoran Dundee</h5>
         					<p>Bird's Nest merupakan menu baru yang ada di Restoran Dundee yang pembuatannya
                                 menggunakan sarang burung walet. Bird's Nest dibuat tanpa bahan pengawet dan juga
@@ -76,8 +76,6 @@
         	</div>
         </section>
         <!--================End About Area =================-->
-
-
 
         <!--================Feature Area =================-->
         <section class="feature_area p_120">
@@ -164,18 +162,37 @@
                             <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="{{ asset('assets/images/2.jpg') }}" data-lightbox="photos"><img class="img-fluid" src="{{ asset('assets/images/2.jpg') }}"></a></div>
                             <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="{{ asset('assets/images/3.jpg') }}" data-lightbox="photos"><img class="img-fluid" src="{{ asset('assets/images/3.jpg') }}"></a></div>
                             <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="{{ asset('assets/images/4.jpg') }}" data-lightbox="photos"><img class="img-fluid" src="{{ asset('assets/images/4.jpg') }}"></a></div>
-                            <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="{{ asset('assets/images/image5.jpeg') }}" data-lightbox="photos"><img class="img-fluid" src="{{ asset('assets/images/image5.jpeg') }}"></a></div>
                             <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="{{ asset('assets/images/image6.jpeg') }}" data-lightbox="photos"><img class="img-fluid" src="{{ asset('assets/images/image6.jpeg') }}"></a></div>
                             <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="{{ asset('assets/images/image7.jpeg') }}" data-lightbox="photos"><img class="img-fluid" src="{{ asset('assets/images/image7.jpeg') }}"></a></div>
-                            <div class="col-sm-6 col-md-4 col-lg-3 item"><a href="{{ asset('assets/images/image5.jpeg') }}" data-lightbox="photos"><img class="img-fluid" src="{{ asset('assets/images/image5.jpeg') }}"></a></div>
                         </div>
                 </div>
         	</div>
         </section>
         <!--================End Our Blog Area =================-->
 
+        <!--================Feature Area =================-->
+        <section class="feature_area p_120" style="background: #ffecec">
+        	<div class="container">
+        		<div class="main_title">
+        			<h2>Bergabung Dengan Kami</h2>
+                    <p>Ingin dapat promo menarik dari kami? Yuk buruan gabung menjadi Reseller kami.</p>
+        		</div>
+        		<div class="row feature_inner px-3">
+                    <div class="feature_item" style="background: #ecf7ff">
+                        <h4><i class="lnr lnr-smile"></i>Bergabunglah dengan kami</h4>
+                        <p>Dapatkan Promo Menarik Dengan Menjadi Reseller Kami. Caranya gampang cukup Hubungi kami saja lalu
+                            kamu akan bisa jadi reseller dan dapat promo dari kami. Ayo join tunggu apalagi!
+                        </p>
+                        <br/>
+                        <a class="banner_btn" href="https://wa.me/6281332666688?text=Halo%20kak,%20Apakah%20Bird's%20Nest%20masih%20tersedia%20?">Hubungi Kami</a>
+                    </div>
+        		</div>
+        	</div>
+        </section>
+        <!--================End Feature Area =================-->
+
         <!--================Contact Area =================-->
-        <section id="kontak" class="contact_area p_120" style="background: #ffecec">
+        <section id="kontak" class="contact_area p_120">
             <div class="container">
                 <div class="main_title">
         			<h2>Kontak</h2>
