@@ -205,7 +205,7 @@
                                 <polyline points="22,6 12,13 2,6"></polyline>
                             </svg>
                             <h4 class="mt-5">Email Us</h4>
-                            <a href="mailto:info@birdnest-dundee.com"> info@birdnest-dundee.com</a>
+                            <a href="mailto:master.dundee@gmail.com"> master.dundee@gmail.com</a>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6">

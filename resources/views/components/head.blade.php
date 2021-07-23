@@ -2,6 +2,9 @@
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="keywords" content="Bird nest, minuman sarang burung walet, restoran dundee, dundee surabaya">
+    <meta name="description" content="Minuman Untuk Kesehatan dan Kecantikan Bird's Nest by Dundee">
+    <meta name="author" content="www.alfara-dev.com">
     <link rel="icon" href="{{ asset('assets/images/logo.png') }}" type="image/png">
     <title>Bird's Nest by Dundee</title>
     <!-- Bootstrap CSS -->

@@ -37,8 +37,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                     </div>
                     <p>Let us be social</p>
                     <ul class="list">
-                        <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-                        <li><a href="#"><i class="fa fa-twitter"></i></a></li>
+                        <li><a href="https://www.facebook.com/marcellina.yolanda.3"><i class="fa fa-facebook"></i></a></li>
                         <li><a href="https://www.instagram.com/birdnest_dundee/"><i class="fa fa-instagram"></i></a></li>
                         <li><a href="https://wa.me/6281332666688?text=Halo%20kak,%20Apakah%20Bird's%20Nest%20masih%20tersedia%20?"><i class="fa fa-whatsapp"></i></a></li>
                     </ul>
