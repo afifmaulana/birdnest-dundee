@@ -9,7 +9,7 @@
                     <p>Bird's Nest merupakan menu baru yang ada di Restoran Dundee yang pembuatannya
                         menggunakan sarang burung walet.</p>
                     <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> Bird's Nest | by <a href="https://colorlib.com" target="_blank">Dundee</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                 </aside>
             </div>
@@ -37,7 +37,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
                     </div>
                     <p>Let us be social</p>
                     <ul class="list">
-                        <li><a href="https://www.facebook.com/marcellina.yolanda.3"><i class="fa fa-facebook"></i></a></li>
+                        <li><a href="https://www.facebook.com/marc"><i class="fa fa-facebook"></i></a></li>
                         <li><a href="https://www.instagram.com/birdnest_dundee/"><i class="fa fa-instagram"></i></a></li>
                         <li><a href="https://wa.me/6281332666688?text=Halo%20kak,%20Apakah%20Bird's%20Nest%20masih%20tersedia%20?"><i class="fa fa-whatsapp"></i></a></li>
                     </ul>
